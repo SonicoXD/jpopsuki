@@ -14,7 +14,7 @@ a:active,a:focus,button:active,button:focus,input:active,input:focus,select:acti
  float:right
 }
 .tooltipster-default .tooltipster-content,body,button,h1,h2,h3,h4,h5,h6,input,select,textarea {
- font-family:'Open Sans',Helvetica,Arial,Tahoma,"Microsoft Yahei",sans-serif
+ font-family:'Lato',Helvetica,Arial,Tahoma,"Microsoft Yahei",sans-serif
 }
 #header ul,.poll {
  list-style:none
@@ -23,16 +23,16 @@ a:active,a:focus,button:active,button:focus,input:active,input:focus,select:acti
  vertical-align:middle
 }
 @font-face {
- font-family:'Open Sans';
+ font-family:'Lato';
  font-style:normal;
  font-weight:400;
- src:local('Open Sans'),local('OpenSans'),url(https://fonts.gstatic.com/s/opensans/v13/cJZKeOuBrn4kERxqtaUH3aCWcynf_cDxXwCLxiixG1c.ttf) format('truetype')
+ src:local('Lato'),local('Lato'),url(https://fonts.gstatic.com/s/lato/v14/S6uyw4BMUTPHjxAwXiWtFCfQ7A.woff2) format('woff2')
 }
 @font-face {
- font-family:'Open Sans';
+ font-family:'Lato';
  font-style:normal;
- font-weight:600;
- src:local('Open Sans Semibold'),local('OpenSans-Semibold'),url(https://fonts.gstatic.com/s/opensans/v13/MTP_ySUJH_bn48VBG8sNSonF5uFdDttMLvmWuJdhhgs.ttf) format('truetype')
+ font-weight:700;
+ src:local('Lato Semibold'),local('Lato-Semibold'),url(https://fonts.gstatic.com/s/lato/v14/S6u9w4BMUTPHh6UVSwaPGQ3q5d0N7w.woff2) format('woff2')
 }
 * {
  box-sizing:inherit;
