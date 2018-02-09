@@ -1,2 +1,2 @@
 # jpopsuki
-A CSS stylesheet for Jpopsuki.
+Buildng a custom CSS stylesheet for Jpopsuki.
